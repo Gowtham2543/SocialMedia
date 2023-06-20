@@ -1,5 +1,4 @@
-# Social Media API
-A simple Flask API for a social media
+A simple Flask API for a social media application
 
 # Features
 User can create an account  
