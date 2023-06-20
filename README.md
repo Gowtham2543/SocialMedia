@@ -1,5 +1,3 @@
-A simple Flask API for a social media application
-
 # Features
 User can create an account  
 User can post content with images and text  
